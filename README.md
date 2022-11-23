@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Evan Hickman.
+- 👀 I’m interested in medicine, applied artificial intelligence, and algorithm design
+- 💞️ I’m looking to collaborate on armamentarium.ai
+- 📫 How to reach me ... DM on GitHub
